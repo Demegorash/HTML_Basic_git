@@ -1,4 +1,4 @@
-# Este es el módulo 1 de las tareas en el tema: Responsive Web Design de https://www.freecodecamp.org/ :bowtie:
+# Este es el módulo 1 de las tareas en el tema: Responsive Web Design de https://www.freecodecamp.org/  :bowtie:
 
 ## Aprende HTML construyendo una aplicación de fotos de gatos, Completado :sunglasses:
 
